@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Javascript and Github Actions**
 
-- 📫 How to reach me **vivianedias@pm.me**
+- 📫 How to reach me **vivipirolad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
