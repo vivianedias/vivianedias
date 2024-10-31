@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **React, Javascript and Github Actions**
+- 💬 Ask me about **React.js, Javascript, Typescript and Next.js**
 
-- 📫 How to reach me **vivipirolad@gmail.com**
+- 📫 How to reach me **hi@vivianedias.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
